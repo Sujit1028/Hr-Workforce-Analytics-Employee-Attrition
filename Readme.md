@@ -83,10 +83,10 @@ These findings highlight workforce segments with higher observed attrition and c
 An interactive two-page dashboard was developed using Power BI to visualize workforce trends and employee attrition.
 
 ### Workforce Overview
-![HR Workforce Overview](Screenshots/HR_Workforce_Overview.png)
+![HR Workforce Overview](Screenshots/HR_Workforce_Overview.png.png)
 
 ### Attrition Deep Dive
-![HR Attrition Deep Dive](Screenshots/HR_Attrition_Deep_Dive.png)
+![HR Attrition Deep Dive](Screenshots/HR_Attrition_Deep_Dive.png.png)
 
 ### Page 1: Workforce Overview
 
