@@ -119,22 +119,22 @@ An interactive two-page dashboard was developed using Power BI to visualize work
 ## Project Structure
 
 ```text
-hr-workforce-analytics-employee-attrition/
+Hr-Workforce-Analytics-Employee-Attrition/
 │
 ├── data/
 │   └── hr_employee_attrition_cleaned.csv
 │
-├── screenshots/
+├── Screenshots/
 │   ├── HR_Workforce_Overview.png
 │   └── HR_Attrition_Deep_Dive.png
 │
-├── python/
+├── Python/
 │   └── data_cleaning.ipynb
 │
 ├── sql/
 │   └── hr_analysis.sql
 │
-├── powerbi/
+├── Power BI/
 │   └── HR_Workforce_Insights_Dashboard.pbix
 │
 └── README.md
